@@ -1,0 +1,1 @@
+# Perhitungan Indikator Temporal Seismik
