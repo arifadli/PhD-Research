@@ -2,7 +2,7 @@
 Pada repositori ini disajikan mengenai riset trend khsusnya pada klasifikasi, prediksi, monitoring gempa bumi, riset yang dilakukan dikelompokan menjadi beberapa kelompok yaitu:
 1. Signal Analisis <br>
    Pada kategori riset ini yang akan dijadikan input sistem adalah sinyal dalam 3 komponen (N, E, Z)<br>    
-   &nbsp;
+   
 2. Temporal Analisis
    Pada kategori riset ini parameter temporal yang akan digunakan sebagai inputan (parameter ini diperoleh dari pengolahan dari metadata informasi) sehingga dihasilkan indikator
    seismic (sesuai rumusan yang telah dibuat pada penelitian sebelumnya yaitu:<br>
