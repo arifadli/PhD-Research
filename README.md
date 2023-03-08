@@ -1,8 +1,8 @@
 # PhD Research
 Pada repositori ini disajikan mengenai riset trend khsusnya pada klasifikasi, prediksi, monitoring gempa bumi, riset yang dilakukan dikelompokan menjadi beberapa kelompok yaitu:
-1. Signal Analisis <br>
-   Pada kategori riset ini yang akan dijadikan input sistem adalah sinyal dalam 3 komponen (N, E, Z)<br>    
-   
+1. Signal Analysis <br>
+   Pada kategori riset ini yang akan dijadikan input sistem adalah sinyal dalam 3 komponen (N, E, Z)
+   &nbsp;
 2. Temporal Analisis
    Pada kategori riset ini parameter temporal yang akan digunakan sebagai inputan (parameter ini diperoleh dari pengolahan dari metadata informasi) sehingga dihasilkan indikator
    seismic (sesuai rumusan yang telah dibuat pada penelitian sebelumnya yaitu:<br>
@@ -17,3 +17,6 @@ Pada repositori ini disajikan mengenai riset trend khsusnya pada klasifikasi, pr
    &nbsp;
 5. Time Series Analisis
    Pada kategori riset ini berupa runtun data (time series)
+   &nbsp;
+6. Seismic Data Preparation
+   This section describes the pre-processing of seismic data
