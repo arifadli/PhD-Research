@@ -1,4 +1,4 @@
-# PhD Research
+# Time Series Analysis
 1. File: **EQ Pred - CatBoost Regressor.ipynb**
    Pada bagian ini dilakukan prediksi gempa berdasarkan pada data tabular (metadata) yang diperoleh dari website United States Geological Survey (USGS).
    Metadata ini memuat beberapa hal diantaranya yaitu time, latitude, longitude, depth, mag, magType.
