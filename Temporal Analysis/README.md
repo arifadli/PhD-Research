@@ -12,7 +12,7 @@ Dalam bagian ini, dilakukan perhitungan indikator seismik berbasis temporal yang
 Plot grafik persamaan GR dari kejadian gempa
 
 **plot a-b_map.ipynb**
-Wilayah dengan nilai-b yang rendah berkorelasi dengan akumulasi stress yang tinggi, sedangkan nilai-b yang tinggi berlaku sebaliknya. Maka pada wilayah NTB yang memiliki nilai-b rendah dapat di identifikasikan bahwa wilayah tersebut menyimpan stress tinggi yang sewaktu-waktu dapat dilepaskan dalam bentuk gelombang seismik berukuran besar
+Wilayah dengan nilai-b yang rendah berkorelasi dengan akumulasi stress yang tinggi, sedangkan nilai-b yang tinggi berlaku sebaliknya. Maka jika pada wilayah yang memiliki nilai-b rendah dapat di identifikasikan bahwa wilayah tersebut menyimpan stress tinggi yang sewaktu-waktu dapat dilepaskan dalam bentuk gelombang seismik berukuran besar
 Selain itu nilai-b yang rendah berkorelasi dengan tingkat kerapuhan batuan yang tinggi, hal ini menyebabkan wilayah tersebut memiliki nilai-a yang rendah. Karena wilayah yang berada pada zona aktif gempa
 namun memiliki nilai-a yang rendah menunjukkan bahwa di wilayah tersebut terjadi peningkatan akumulasi energi berupa stress.
 
