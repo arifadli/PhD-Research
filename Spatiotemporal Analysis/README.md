@@ -1,9 +1,4 @@
-# Menampilkan Statistika Kejadian Gempa
-**Statistika Kejadian Gempa.ipynb**
-Beberapa Informasi yang ditampilkan pada bagian ini adalah
-1. Total Kejadian Gempa sejak **1970 hingga 2017**
-2. Rata-rata jumlah kejadian per pekan
-3. Rata-rata jumlah kejadian per tahun
-4. Manitudo gempa terbesar:
-5. Visualisasi Lokasi Gempa
-6. Histogram Magnitude, Longitude, Latitude, Depth (Terhadap Frekuensi Kejadian Gempa)
+#Prediksi Gempa Berdasarkan Analisis Spatio-Temporal
+
+Pada repository ini disajikan beberapa penellitian prediksi gempa yang didasarkan pada analisis spatio-temporal diantaranya yaitu:
+1. Recurrent Convolutional Neural Networks Help to Predict Location of Earthquakes (2021 - DOI: https://doi.org/10.1109/LGRS.2021.3107998)
