@@ -19,4 +19,8 @@ Pada repositori ini disajikan mengenai riset trend khsusnya pada klasifikasi, pr
    Pada kategori riset ini berupa runtun data (time series)
    &nbsp;
 6. Seismic Data Preparation
-   This section describes the pre-processing of seismic data
+   Pada kategori disimulasikan Pemrosesan Data Awal Seismik
+7. Data Acquisition
+   Pada kategori disimulasikan Bagaimana melakukan akuisisi data secara realtime pada data seismik    
+8. Statistika Kejadian Gempa
+   Pada kategori ini disajikan bagaimana melakukan analisis secara statistika pada runtun kejadian gempa yang terjadi selama kurun waktu tahun tertentu   
